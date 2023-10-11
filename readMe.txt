@@ -8,6 +8,8 @@ Then simply run the code and the game will start.
 
 I am using the libraries: random, time, math, os, decimal, cmu_112_graphics, pygame, and ast.
 
+Here is a video demonstration of the project: https://www.youtube.com/watch?v=rHk7DGxHP9s
+
 
 
 
